@@ -1,4 +1,4 @@
-.\output\main.o: ..\Template\User\main.c
+.\output\main.o: APP\main.c
 .\output\main.o: ..\Template\User\public.h
 .\output\main.o: ..\Template\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
 .\output\main.o: ..\Template\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
